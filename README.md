@@ -26,4 +26,6 @@
 - Used Serverless technology (AWS services) to make it cost efficient, scalable and reliable.
 - Consider encryption, least prviliages and private subnet for compute and DB for security.
  
+# Presentation 
+https://docs.google.com/presentation/d/1RawGuBOX3PpdHOfIT8PLEfZlMtP0o0M1cpEj07NTBoc/edit?usp=sharing
 
