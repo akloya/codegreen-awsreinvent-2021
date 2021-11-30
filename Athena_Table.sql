@@ -132,3 +132,7 @@ LOCATION
 TBLPROPERTIES (
   'has_encrypted_data'='false', 
   'transient_lastDdlTime'='1638225166')
+  
+  
+-- Query to watt hrs per vCPUs
+SELECT AVG("avg_watts_active_idle"/"total threads") FROM reinvent.spec_power_full WHERE "cpu description" IN (SELECT cpu from reinvent.amd_epyc_gen3)
