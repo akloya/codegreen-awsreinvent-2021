@@ -8,7 +8,7 @@
     Once subscribed to a data product, use the AWS Data Exchange API to load data directly into Amazon S3 and then analyzed it with a ATHENA and Quicksight services.
 
 # Architecture Diagram
-<img width="563" alt="Screen Shot 2021-11-04 at 2 21 01 PM" src="https://user-images.githubusercontent.com/74983509/140397342-5b9a2d2a-3694-4ad7-a731-8895a205d43f.png">
+<img width="563" alt="Screen Shot 2021-11-04 at 2 21 01 PM" src="https://github.com/vmbaraiya/codegreen-awsreinvent-2021/blob/main/architecture.png">
 
 # STEP 
 - Subscribe to the ASDI dataset using ADX.
